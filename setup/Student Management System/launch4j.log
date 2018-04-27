@@ -1,0 +1,29 @@
+
+
+Version:	3.10
+CmdLine:	C:\Users\PRO-Mahmoud Reda\Desktop\setup\Student Management System\SMS.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\PRO-Mahmoud Reda\Desktop\setup\Student Management System\.
+Java min ver:	1.5.0
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Check launcher:	C:\Program Files (x86)\Java\jdk1.8.0_144\jre\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_144
+Check launcher:	C:\Program Files (x86)\Java\jdk1.8.0_144\jre\bin\javaw.exe (OK)
+Match:		1.8.0_144
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.8.0_144 (32-bit)
+Main class:	project.welcome
+Add classpath:	lib\mysql-connector-java-5.1.6-bin.jar
+Launcher:	C:\Program Files (x86)\Java\jdk1.8.0_144\jre\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\PRO-Mahmoud Reda\Desktop\setup\Student Management System\SMS.exe;lib\mysql-connector-java-5.1.6-bin.jar" project.welcome
+Args length:	141/32768 chars
+Exit code:	0
